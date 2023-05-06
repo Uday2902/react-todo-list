@@ -1,4 +1,4 @@
-# todo-app-using-react
+# Todo app using React
 Todo App using React with functionality of add, remove & mark as completed todos
 
 # Installing React on Windows, macOS, and Linux
