@@ -7,7 +7,7 @@ This guide will walk you through the steps to install React on Windows, macOS, a
 ## Prerequisites
 Before you begin, make sure that you have the following installed:
 
-## Node.js
+### Node.js
 npm (Node.js package manager)
 You can download Node.js and npm from the official website: https://nodejs.org
 
