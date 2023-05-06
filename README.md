@@ -51,4 +51,4 @@ This will start the development server and open your browser to http://localhost
 Conclusion
 Congratulations! You have successfully installed React on your Windows, macOS, or Linux machine. You can now start building your React application.
 
-## Feel free to contact if you have any queries
+### Feel free to contact if you have any queries
